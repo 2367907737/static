@@ -1,0 +1,107 @@
+[
+  {
+    "id": "my_source_1",
+    "name": "1-小盒子4K",
+    "baseUrl": "https://video.adminqt.cn/api.php/provide/vod/",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "my_source_2",
+    "name": "2-小盒子4K",
+    "baseUrl": "https://xzcjz.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "my_source_3",
+    "name": "3-小盒子4K",
+    "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod/",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "my_source_4",
+    "name": "4-小盒子4K",
+    "baseUrl": "https://cj.lziapi.com/api.php/provide/vod/",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "my_source_5",
+    "name": "5-小盒子4K",
+    "baseUrl": "https://suoniapi.com/api.php/provide/vod/",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "my_source_6",
+    "name": "6-小盒子4K",
+    "baseUrl": "http://xh1.xn--yetu07f.icu/api.php/provide/vod/",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "my_source_7",
+    "name": "7-小盒子4K",
+    "baseUrl": "https://ikunzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "my_source_8",
+    "name": "8-小盒子4K",
+    "baseUrl": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "my_source_9",
+    "name": "9-小盒子4K",
+    "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod/",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "my_source_10",
+    "name": "1-FongMI线路",
+    "baseUrl": "http://cj.ffzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "my_source_11",
+    "name": "2-FongMI线路",
+    "baseUrl": "https://api.kuaifan.tv/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "my_source_12",
+    "name": "3-FongMI线路",
+    "baseUrl": "https://suoniapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "my_source_13",
+    "name": "4-FongMI线路",
+    "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "my_source_14",
+    "name": "5-FongMI线路",
+    "baseUrl": "https://bfzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "my_source_15",
+    "name": "6-FongMI线路",
+    "baseUrl": "https://haiwaikan.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  }
+]
