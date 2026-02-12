@@ -67,7 +67,7 @@ payload:
   - DOMAIN,emby.dnscf.dpdns.org  #HG
   - DOMAIN-SUFFIX,mjji.de   #Playz&蛋
   - DOMAIN,pri.tanhuatv.site  #探花私服
-  - DOMAIN,tanhuatv.site   #探花
+  - DOMAIN,tanhuatv.site   #探花 
   - DOMAIN,www.embyhome.top   #深夜食堂
   - DOMAIN,www.emby.su  #fkdjt
   - DOMAIN,lustfulboy.com   #男孩
