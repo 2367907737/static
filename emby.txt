@@ -10,6 +10,7 @@ payload:
   - DOMAIN,public.shrekmedia.org  #Shrek
   - DOMAIN-SUFFIX,handoumedia.top   #憨豆
   - DOMAIN,free4.28.al  #起点公益
+  - DOMAIN,freestream.startspoint.com  #起点推流
   - DOMAIN-SUFFIX,liminalnet.com  #临境&临小境
   - DOMAIN,cf.5msky.com   #MSKY
   - DOMAIN,yb.ybao.me  #MSKY测试服
