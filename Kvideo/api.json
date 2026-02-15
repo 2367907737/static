@@ -1,0 +1,471 @@
+[
+  {
+    "id": "normal_source_1",
+    "name": "自用-电影天堂",
+    "baseUrl": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_2",
+    "name": "自用-暴风资源",
+    "baseUrl": "https://bfzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_3",
+    "name": "自用-天涯资源",
+    "baseUrl": "https://tyyszy.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_4",
+    "name": "自用-非凡影视",
+    "baseUrl": "https://api.ffzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_5",
+    "name": "自用-360资源",
+    "baseUrl": "https://360zy.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_6",
+    "name": "自用-茅台资源",
+    "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_7",
+    "name": "自用-卧龙资源",
+    "baseUrl": "https://wolongzyw.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_8",
+    "name": "自用-索尼-闪电资源",
+    "baseUrl": "https://xsd.sdzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_9",
+    "name": "自用-豆瓣资源",
+    "baseUrl": "https://dbzy.tv/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_10",
+    "name": "自用-TV-闪电资源",
+    "baseUrl": "https://sdzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_11",
+    "name": "自用-魔都资源",
+    "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_12",
+    "name": "自用-最大资源",
+    "baseUrl": "https://api.zuidapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_13",
+    "name": "自用-樱花资源",
+    "baseUrl": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_14",
+    "name": "自用-无尽资源",
+    "baseUrl": "https://api.wujinapi.me/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_15",
+    "name": "自用-旺旺短剧",
+    "baseUrl": "https://wwzy.tv/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_16",
+    "name": "自用-iKun资源",
+    "baseUrl": "https://ikunzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_17",
+    "name": "自用-量子资源",
+    "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_18",
+    "name": "自用-百度资源",
+    "baseUrl": "https://api.apibdzy.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_19",
+    "name": "自用-红牛资源2",
+    "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_20",
+    "name": "自用-CK资源",
+    "baseUrl": "https://ckzy.me/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_21",
+    "name": "自用-U酷资源",
+    "baseUrl": "https://api.ukuapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_22",
+    "name": "自用-豪华资源",
+    "baseUrl": "https://hhzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_23",
+    "name": "自用-速博资源",
+    "baseUrl": "https://subocaiji.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_24",
+    "name": "自用-飘零资源",
+    "baseUrl": "https://p2100.net/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_25",
+    "name": "自用-爱奇艺",
+    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_26",
+    "name": "自用-猫眼资源",
+    "baseUrl": "https://api.maoyanapi.top/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_27",
+    "name": "自用-如意资源",
+    "baseUrl": "https://cj.rycjapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_28",
+    "name": "自用-光速资源",
+    "baseUrl": "https://jinyingzy.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_29",
+    "name": "自用-TV-非凡资源",
+    "baseUrl": "https://cj.ffzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_30",
+    "name": "自用-TV-U酷资源88",
+    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_31",
+    "name": "自用-TV-wujinapi无尽",
+    "baseUrl": "https://api.wujinapi.cc/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_32",
+    "name": "自用-TV-丫丫点播",
+    "baseUrl": "https://cj.yayazy.net/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_33",
+    "name": "自用-TV-光速资源",
+    "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_34",
+    "name": "自用-TV-卧龙点播",
+    "baseUrl": "https://collect.wolongzyw.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_35",
+    "name": "自用-TV-卧龙资源",
+    "baseUrl": "https://collect.wolongzy.cc/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_70",
+    "name": "自用-红牛资源3",
+    "baseUrl": "https://www.hongniuzy3.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_37",
+    "name": "自用-TV-无尽资源",
+    "baseUrl": "https://api.wujinapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_38",
+    "name": "自用-TV-无尽资源",
+    "baseUrl": "https://api.wujinapi.net/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_39",
+    "name": "自用-TV-旺旺资源",
+    "baseUrl": "https://api.wwzy.tv/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_40",
+    "name": "自用-TV-最大点播",
+    "baseUrl": "http://zuidazy.me/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_41",
+    "name": "自用-TV-牛牛点播",
+    "baseUrl": "https://api.niuniuzy.me/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_42",
+    "name": "自用-TV-魔都动漫",
+    "baseUrl": "https://caiji.moduapi.cc/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_43",
+    "name": "自用-TV-索尼资源",
+    "baseUrl": "https://suoniapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_44",
+    "name": "自用-TV-虎牙资源",
+    "baseUrl": "https://www.huyaapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_45",
+    "name": "自用-TV-豆瓣资源",
+    "baseUrl": "https://caiji.dbzy.tv/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_46",
+    "name": "自用-TV-金鹰资源",
+    "baseUrl": "https://jyzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_47",
+    "name": "FongMI线路-索尼",
+    "baseUrl": "https://bfzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_48",
+    "name": "FongMI线路-非凡",
+    "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_49",
+    "name": "FongMI线路-櫻花",
+    "baseUrl": "http://cj.ffzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_1",
+    "name": "自用-AV-155资源",
+    "baseUrl": "https://155api.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_2",
+    "name": "自用-AV-百万资源",
+    "baseUrl": "https://api.bwzyz.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_3",
+    "name": "自用-性吧资源",
+    "baseUrl": "https://xingba111.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_4",
+    "name": "自用-AV-AIvin",
+    "baseUrl": "http://lbapiby.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_5",
+    "name": "自用-AV-JKUN资源",
+    "baseUrl": "https://jkunzyapi.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_6",
+    "name": "自用-AV-91麻豆",
+    "baseUrl": "https://91md.me/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_7",
+    "name": "自用-AV-乐播资源",
+    "baseUrl": "https://lbapi9.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_8",
+    "name": "自用-AV-奥斯卡资源",
+    "baseUrl": "https://aosikazy.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_9",
+    "name": "自用-AV-奶香香",
+    "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_10",
+    "name": "自用-AV-森林资源",
+    "baseUrl": "https://slapibf.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_11",
+    "name": "自用-AV-玉兔资源",
+    "baseUrl": "https://apiyutu.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_12",
+    "name": "自用-AV-番号资源",
+    "baseUrl": "http://fhapi9.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_13",
+    "name": "自用-AV-精品资源",
+    "baseUrl": "https://www.jingpinx.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_14",
+    "name": "自用-AV-老色逼资源",
+    "baseUrl": "https://apilsbzy1.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_15",
+    "name": "自用-细胞采集黄色",
+    "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_16",
+    "name": "自用-AV-辣椒资源",
+    "baseUrl": "https://apilj.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_17",
+    "name": "自用-AV-鲨鱼资源",
+    "baseUrl": "https://shayuapi.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_18",
+    "name": "自用-黄色资源啊啊",
+    "baseUrl": "https://hsckzy888.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  }
+]
