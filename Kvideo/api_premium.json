@@ -1,0 +1,128 @@
+[
+  {
+    "id": "premium_source_1",
+    "name": "自用-AV-155资源",
+    "baseUrl": "https://155api.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_2",
+    "name": "自用-AV-百万资源",
+    "baseUrl": "https://api.bwzyz.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_3",
+    "name": "自用-性吧资源",
+    "baseUrl": "https://xingba111.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_4",
+    "name": "自用-AV-AIvin",
+    "baseUrl": "http://lbapiby.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_5",
+    "name": "自用-AV-JKUN资源",
+    "baseUrl": "https://jkunzyapi.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_6",
+    "name": "自用-AV-91麻豆",
+    "baseUrl": "https://91md.me/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_7",
+    "name": "自用-AV-乐播资源",
+    "baseUrl": "https://lbapi9.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_8",
+    "name": "自用-AV-奥斯卡资源",
+    "baseUrl": "https://aosikazy.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_9",
+    "name": "自用-AV-奶香香",
+    "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_10",
+    "name": "自用-AV-森林资源",
+    "baseUrl": "https://slapibf.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_11",
+    "name": "自用-AV-玉兔资源",
+    "baseUrl": "https://apiyutu.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_12",
+    "name": "自用-AV-番号资源",
+    "baseUrl": "http://fhapi9.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_13",
+    "name": "自用-AV-精品资源",
+    "baseUrl": "https://www.jingpinx.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_14",
+    "name": "自用-AV-老色逼资源",
+    "baseUrl": "https://apilsbzy1.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_15",
+    "name": "自用-细胞采集黄色",
+    "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_16",
+    "name": "自用-AV-辣椒资源",
+    "baseUrl": "https://apilj.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_17",
+    "name": "自用-AV-鲨鱼资源",
+    "baseUrl": "https://shayuapi.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_18",
+    "name": "自用-黄色资源啊啊",
+    "baseUrl": "https://hsckzy888.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  }
+]
