@@ -124,5 +124,26 @@
     "baseUrl": "https://hsckzy888.com/api.php/provide/vod",
     "group": "premium",
     "priority": 1
+  },
+  {
+    "id": "premium_source_19",
+    "name": "自用-桃花资源",
+    "baseUrl": "https://thzy1.me/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_20",
+    "name": "自用-fqzy",
+    "baseUrl": "https://fqzy.me//api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
+  },
+  {
+    "id": "premium_source_21",
+    "name": "自用-性细胞",
+    "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
+    "group": "premium",
+    "priority": 1
   }
 ]
