@@ -1,0 +1,9 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="多拉" tvg-logo="https://live.fanmingming.com/tv/多拉.png" group-title="其他",多拉
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+#EXTINF:-1 tvg-name="惊艳" tvg-logo="https://live.fanmingming.com/tv/惊艳.png" group-title="其他",惊艳
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+#EXTINF:-1 tvg-name="松₁" tvg-logo="https://live.fanmingming.com/tv/松₁.png" group-title="其他",松₁
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+#EXTINF:-1 tvg-name="松₃" tvg-logo="https://live.fanmingming.com/tv/松₃.png" group-title="其他",松₃
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
