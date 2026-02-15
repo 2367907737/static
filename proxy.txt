@@ -1,3 +1,0 @@
-payload:  
-  - DOMAIN,ycoo.net
-  - DOMAIN,satomi.my
