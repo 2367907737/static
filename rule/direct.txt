@@ -8,3 +8,4 @@ payload:
   - DOMAIN,yihai.aiinyue.com
   - DOMAIN,music.wenjian.de
   - DOMAIN,music.mefun.org
+  - DOMAIN,gousen.cc.cd
