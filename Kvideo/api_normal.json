@@ -245,7 +245,7 @@
     "priority": 1
   },
   {
-    "id": "normal_source_70",
+    "id": "normal_source_36",
     "name": "自用-红牛资源3",
     "baseUrl": "https://www.hongniuzy3.com/api.php/provide/vod",
     "group": "normal",
@@ -339,6 +339,13 @@
     "id": "normal_source_49",
     "name": "FongMI线路-櫻花",
     "baseUrl": "http://cj.ffzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 1
+  },
+  {
+    "id": "normal_source_50",
+    "name": "自用-OK资源",
+    "baseUrl": "https://api.okzyw.net/api.php/provide/vod",
     "group": "normal",
     "priority": 1
   }
