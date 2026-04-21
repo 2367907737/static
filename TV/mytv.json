@@ -1178,6 +1178,16 @@
             "url": "./1/女优库全集.m3u"
         },
         {
+            "name": "playlist_3",
+            "type": 0,
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/黄色仓库_国产系列.m3u"
+        },
+        {
+            "name": "playlist_4",
+            "type": 0,
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/黄色仓库_日韩系列.m3u"
+        },
+        {
             "name": "卫视频道",
             "type": 0,
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u",
