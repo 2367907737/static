@@ -129,6 +129,15 @@
             "ext": "./json/51短剧.json"
         },
         {
+            "key": "色花堂",
+            "name": "🔞色花堂",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "filterable": 1,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/色花堂1.json",
+            "jar": "./jar/XBPQ.jar"
+        },
+        {
             "key": "51短剧",
             "name": "✨Aries|51短剧✨",
             "type": 3,
@@ -236,15 +245,6 @@
             }
         },
         {
-            "key": "色花堂",
-            "name": "🔞色花堂",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/色花堂1.json",
-            "jar": "./jar/XBPQ.jar"
-        },
-        {
             "key": "csp_XYQHiker_黄色仓库123",
             "name": "🔞黄色仓库123✈️🔗",
             "type": 3,
@@ -273,7 +273,7 @@
             },
             "api": "csp_GM",
             "ext": {
-            "userScript": "./userScripts/jable.user.js",
+            "userScript": "./2/userScripts/jable.user.js",
             "debug": false,
             "webViewSettings": {
             "blockNetworkImage": true,
@@ -325,7 +325,7 @@
             },
             "api": "csp_GM",
             "ext": {
-            "userScript": "./userScripts/netflav.user.js",
+            "userScript": "./2/userScripts/netflav.user.js",
             "debug": false,
             "webViewSettings": {
             "blockNetworkImage": true,
@@ -377,7 +377,7 @@
             },
             "api": "csp_GM",
             "ext": {
-            "userScript": "./userScripts/123av.user.js",
+            "userScript": "./2/userScripts/123av.user.js",
             "debug": false,
             "webViewSettings": {
             "blockNetworkImage": true,
@@ -431,7 +431,7 @@
             },
             "api": "csp_GM",
             "ext": {
-            "userScript": "./userScripts/missav.user.js",
+            "userScript": "./2/userScripts/missav.user.js",
             "debug": false,
             "webViewSettings": {
             "blockNetworkImage": true,
@@ -486,7 +486,7 @@
             },
             "api": "csp_GM",
             "ext": {
-            "userScript": "./userScripts/supjav.user.js",
+            "userScript": "./2/userScripts/supjav.user.js",
             "debug": false,
             "webViewSettings": {
             "blockNetworkImage": true,
@@ -555,6 +555,7 @@
                 "ratio": 1.78
             },
             "api": "csp_GM",
+            "jar": "./jar/GM.jar",
             "ext": {
                 "userScript": "./2/userScripts/xojav.user.js",
                 "debug": false,
