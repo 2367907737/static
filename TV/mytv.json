@@ -555,7 +555,7 @@
                 "ratio": 1.78
             },
             "api": "csp_GM",
-            "jar": "./jar/GM.jar",
+            "jar": "./2/Spiders-Lib/GM.jar",
             "ext": {
                 "userScript": "./2/userScripts/xojav.user.js",
                 "debug": false,
