@@ -35,6 +35,230 @@
             "jar": "./jar/fm_xMydev.jar"
         },
         {
+            "key": "JAVDAYTV",
+            "name": "🔞JAVDAYTV(XYQHiker)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/javday.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+        {
+            "key": "csp_XYQHiker_missav.app",
+            "name": "🔞MissAV.app",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/missav.app.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+        {
+            "key": "51吸瓜动态版.py",
+            "name": "51吸瓜动态版.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./PY1/51吸瓜动态版.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "推特APP",
+            "name": "✨Aries|推特APP✨",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./py1/推特APP.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "py_stripchat",
+            "name": "✨py_stripchat✨",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./PY1/py_stripchat.py",
+            "order_num": 5,
+            "ext": ""
+        },{
+            "key": "uaa有声.py",
+            "name": "uaa有声.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./PY1/uaa有声.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "色播聚合",
+            "name": "色播聚合.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./PY1/py_色播聚合.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "✨51短剧✨",
+            "name": "✨Aries|51短剧✨",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/51短剧.json"
+        },
+        {
+            "key": "51短剧",
+            "name": "✨Aries|51短剧✨",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "./jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/51短剧.json"
+        },
+        {
+            "key": "DSYS",
+            "name": "DSYS.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./PY1/DSYS.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": ".avjoy",
+            "name": "avjoy.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./PY1/avjoy.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "boyfriend.show.py",
+            "name": "boyfriend.show.py",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./PY1/boyfriend.show.py",
+            "order_num": 5,
+            "ext": ""
+        },
+        {
+            "key": "csp_XYQHiker_jable",
+            "name": "🔞Jable④",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/jable.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+        {
+            "key": "JAVDAY",
+            "name": "🔞JAVDAY",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jar/XBPQ.jar",
+            "spider": "./jar/XBPQ.jar",
+            "ext": {
+                "主页url": "https://javday.tv/",
+                "直接播放": "1",
+                "数组": "lazy loaded\"&&</a>",
+                "图片": "style=\"background-image: url(&&);\"",
+                "标题": "class=\"title\"&&</span>",
+                "副标题": "class=\"number\">&&</span>",
+                "简介": "title\"&&</span>",
+                "链接": "href=\"&&\"",
+                "分类url": "https://javday.tv/category/{cateId}/page/{catePg}/",
+                "分类": "新作上市$new-release#有碼$censored#國產AV$chinese-av#無碼流出$uncensored-leaked#糖心VLOG$txvlog#蘿莉社$luolisheus#HongKongDoll$hongkongdoll"
+            }
+        },
+        {
+            "key": "csp_XYQHiker_av6k",
+            "name": "🔞JAV6K",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/av6k.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+        {
+            "key": "csp_XYQHiker_javffm",
+            "name": "🔞JAVFFM",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/javffm.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+        {
+            "key": "色花堂",
+            "name": "🔞色花堂",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "filterable": 1,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/色花堂1.json",
+            "jar": "./jar/XBPQ.jar"
+        },
+        {
+            "key": "csp_XYQHiker_黄色仓库123",
+            "name": "🔞黄色仓库123✈️🔗",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/黄色仓库123.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+        {
             "key": "Jable",
             "name": "Jable",
             "type": 3,
@@ -362,244 +586,6 @@
             }
             }
         }
-        },
-        {
-            "key": ".avjoy",
-            "name": "avjoy.py",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./PY1/avjoy.py",
-            "order_num": 5,
-            "ext": ""
-        },
-        {
-            "key": "py_stripchat",
-            "name": "✨py_stripchat✨",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./PY1/py_stripchat.py",
-            "order_num": 5,
-            "ext": ""
-        },
-        {
-            "key": "✨副本✨",
-            "name": "✨副本✨",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "jar": "./jar/xbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/副本无搜.json"
-        },
-        {
-            "key": "✨51短剧✨",
-            "name": "✨Aries|51短剧✨",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "jar": "./jar/xbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/51短剧.json"
-        },
-        {
-            "key": "推特APP",
-            "name": "✨Aries|推特APP✨",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./py1/推特APP.py",
-            "order_num": 5,
-            "ext": ""
-        },
-        {
-            "key": "51短剧",
-            "name": "✨Aries|51短剧✨",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "jar": "./jar/xyqxbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/51短剧.json"
-        },
-        {
-            "key": "DSYS",
-            "name": "DSYS.py",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./PY1/DSYS.py",
-            "order_num": 5,
-            "ext": ""
-        },
-        {
-            "key": "51吸瓜动态版.py",
-            "name": "51吸瓜动态版.py",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./PY1/51吸瓜动态版.py",
-            "order_num": 5,
-            "ext": ""
-        },
-        
-        {
-            "key": "boyfriend.show.py",
-            "name": "boyfriend.show.py",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./PY1/boyfriend.show.py",
-            "order_num": 5,
-            "ext": ""
-        },
-        {
-            "key": "uaa有声.py",
-            "name": "uaa有声.py",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./PY1/uaa有声.py",
-            "order_num": 5,
-            "ext": ""
-        },
-        {
-            "key": "色播聚合",
-            "name": "色播聚合.py",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "./PY1/py_色播聚合.py",
-            "order_num": 5,
-            "ext": ""
-        },
-        {
-            "key": "JAVDAYTV",
-            "name": "🔞JAVDAYTV(XYQHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/javday.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
-        {
-            "key": "csp_XYQHiker_missav.app",
-            "name": "🔞MissAV.app",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/missav.app.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
-        {
-            "key": "csp_XYQHiker_jable",
-            "name": "🔞Jable④",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/jable.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
-        {
-            "key": "JAVDAY",
-            "name": "🔞JAVDAY",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "spider": "./jar/XBPQ.jar",
-            "ext": {
-                "主页url": "https://javday.tv/",
-                "直接播放": "1",
-                "数组": "lazy loaded\"&&</a>",
-                "图片": "style=\"background-image: url(&&);\"",
-                "标题": "class=\"title\"&&</span>",
-                "副标题": "class=\"number\">&&</span>",
-                "简介": "title\"&&</span>",
-                "链接": "href=\"&&\"",
-                "分类url": "https://javday.tv/category/{cateId}/page/{catePg}/",
-                "分类": "新作上市$new-release#有碼$censored#國產AV$chinese-av#無碼流出$uncensored-leaked#糖心VLOG$txvlog#蘿莉社$luolisheus#HongKongDoll$hongkongdoll"
-            }
-        },
-        {
-            "key": "csp_XYQHiker_av6k",
-            "name": "🔞JAV6K",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/av6k.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
-        {
-            "key": "csp_XYQHiker_javffm",
-            "name": "🔞JAVFFM",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/javffm.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
-        {
-            "key": "色花堂",
-            "name": "🔞色花堂",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/色花堂1.json",
-            "jar": "./jar/XBPQ.jar"
-        },
-        {
-            "key": "csp_XYQHiker_黄色仓库123",
-            "name": "🔞黄色仓库123✈️🔗",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/黄色仓库123.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
         }
     ],
     "parses": [
