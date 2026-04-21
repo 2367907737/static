@@ -38,6 +38,7 @@
             "key": "Jable",
             "name": "Jable",
             "type": 3,
+            "jar": "./jar/GM.jar",
             "quickSearch": 1,
             "searchable": 1,
             "changeable": 0,
@@ -49,7 +50,7 @@
             },
             "api": "csp_GM",
             "ext": {
-            "userScript": "./userScripts/jable.user.js",
+            "userScript": "./js/jable.user.js",
             "debug": false,
             "webViewSettings": {
             "blockNetworkImage": true,
@@ -90,6 +91,7 @@
             "key": "netflav",
             "name": "NETFLAV",
             "type": 3,
+            "jar": "./jar/GM.jar",
             "quickSearch": 1,
             "searchable": 1,
             "changeable": 0,
@@ -101,7 +103,7 @@
             },
             "api": "csp_GM",
             "ext": {
-            "userScript": "./userScripts/netflav.user.js",
+            "userScript": "./js/netflav.user.js",
             "debug": false,
             "webViewSettings": {
             "blockNetworkImage": true,
@@ -142,6 +144,7 @@
             "key": "123av",
             "name": "123AV",
             "type": 3,
+            "jar": "./jar/GM.jar",
             "quickSearch": 1,
             "searchable": 1,
             "changeable": 0,
@@ -153,7 +156,7 @@
             },
             "api": "csp_GM",
             "ext": {
-            "userScript": "./userScripts/123av.user.js",
+            "userScript": "./js/123av.user.js",
             "debug": false,
             "webViewSettings": {
             "blockNetworkImage": true,
@@ -196,6 +199,7 @@
             "key": "MissAV",
             "name": "MissAV",
             "type": 3,
+            "jar": "./jar/GM.jar",
             "quickSearch": 1,
             "searchable": 1,
             "changeable": 0,
@@ -207,7 +211,7 @@
             },
             "api": "csp_GM",
             "ext": {
-            "userScript": "./userScripts/missav.user.js",
+            "userScript": "./js/missav.user.js",
             "debug": false,
             "webViewSettings": {
             "blockNetworkImage": true,
@@ -251,6 +255,7 @@
             "key": "supjav",
             "name": "SupJav",
             "type": 3,
+            "jar": "./jar/GM.jar",
             "quickSearch": 0,
             "searchable": 1,
             "changeable": 0,
@@ -262,7 +267,7 @@
             },
             "api": "csp_GM",
             "ext": {
-            "userScript": "./userScripts/supjav.user.js",
+            "userScript": "./js/supjav.user.js",
             "debug": false,
             "webViewSettings": {
             "blockNetworkImage": true,
@@ -321,6 +326,7 @@
             "key": "XOJAV",
             "name": "XOJAV",
             "type": 3,
+            "jar": "./jar/GM.jar",
             "quickSearch": 1,
             "searchable": 1,
             "changeable": 0,
