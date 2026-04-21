@@ -326,18 +326,14 @@
             "key": "XOJAV",
             "name": "XOJAV",
             "type": 3,
+            "playerType": 2,
+            "api": "csp_GM",
             "jar": "./jar/GM.jar",
             "quickSearch": 1,
             "searchable": 1,
             "changeable": 0,
             "filterable": 1,
             "timeout": 60,
-            "order_num": 5,
-            "style": {
-                "type": "rect",
-                "ratio": 1.78
-            },
-            "api": "csp_GM",
             "ext": "./js/xojav.user.js",  
         },
         {
