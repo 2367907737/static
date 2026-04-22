@@ -19,6 +19,7 @@
             "name": "木偶｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
+            "jar": "./jar/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -38,6 +39,7 @@
             "name": "哔哩｜视频",
             "type": 3,
             "api": "csp_BiliYS",
+            "jar": "./jar/spider.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -55,6 +57,7 @@
             "name": "腾讯｜视频",
             "type": 3,
             "api": "./js/drpy2.min.js",
+            "jar": "./jar/spider.jar",
             "ext": "./js/腾讯视频.js"
         },
         {
@@ -62,6 +65,7 @@
             "name": "优酷｜视频",
             "type": 3,
             "api": "./js/drpy2.min.js",
+            "jar": "./jar/spider.jar",
             "ext": "./js/优酷视频.js"
         },
         {
@@ -69,6 +73,7 @@
             "name": "芒果｜视频",
             "type": 3,
             "api": "./js/drpy2.min.js",
+            "jar": "./jar/spider.jar",
             "ext": "./js/芒果视频.js"
         },
         {
@@ -76,6 +81,7 @@
             "name": "爱奇艺｜视频",
             "type": 3,
             "api": "./js/drpy2.min.js",
+            "jar": "./jar/spider.jar",
             "ext": "./js/爱奇艺.js"
         },
         {
