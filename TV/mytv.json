@@ -125,7 +125,7 @@
         },
         {
             "key": "JAVDAYTV",
-            "name": "JAVDAYTV",
+            "name": "JAVDAYTV｜1",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -139,7 +139,7 @@
         },
         {
             "key": "csp_XYQHiker_missav.app",
-            "name": "MissAV.app",
+            "name": "MissAV.app｜1",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -153,7 +153,7 @@
         },
         {
             "key": "51吸瓜动态版.py",
-            "name": "51吸瓜动态版.py",
+            "name": "51吃瓜｜1",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -164,7 +164,7 @@
         },
         {
             "key": "推特APP",
-            "name": "推特APP✨",
+            "name": "推特｜1",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -175,7 +175,7 @@
         },
         {
             "key": "py_stripchat",
-            "name": "✨py_stripchat✨",
+            "name": "stripchat｜1",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -185,7 +185,7 @@
             "ext": ""
         },{
             "key": "uaa有声.py",
-            "name": "uaa有声.py",
+            "name": "uaa有声｜1",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -196,7 +196,7 @@
         },
         {
             "key": "色播聚合",
-            "name": "色播聚合.py",
+            "name": "色播聚合｜1",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -207,7 +207,7 @@
         },
         {
             "key": "✨51短剧✨",
-            "name": "✨51短剧✨",
+            "name": "51短剧｜1",
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
@@ -219,7 +219,7 @@
         },
         {
             "key": "Jable",
-            "name": "Jable",
+            "name": "Jable｜1",
             "type": 3,
             "quickSearch": 1,
             "searchable": 1,
@@ -272,7 +272,7 @@
         },
         {
             "key": "netflav",
-            "name": "NETFLAV",
+            "name": "NETFLAV｜1",
             "type": 3,
             "quickSearch": 1,
             "searchable": 1,
@@ -325,7 +325,7 @@
         },
         {
             "key": "123av",
-            "name": "123AV",
+            "name": "123AV｜1",
             "type": 3,
             "quickSearch": 1,
             "searchable": 1,
@@ -380,7 +380,7 @@
         },
         {
             "key": "MissAV",
-            "name": "MissAV",
+            "name": "MissAV｜1",
             "type": 3,
             "quickSearch": 1,
             "searchable": 1,
@@ -436,7 +436,7 @@
         },
         {
             "key": "supjav",
-            "name": "SupJav",
+            "name": "SupJav｜1",
             "type": 3,
             "quickSearch": 0,
             "searchable": 1,
@@ -507,7 +507,7 @@
         },
         {
             "key": "XOJAV",
-            "name": "XOJAV",
+            "name": "XOJAV｜1",
             "type": 3,
             "quickSearch": 1,
             "searchable": 1,
@@ -554,7 +554,7 @@
         },
         {
             "key": "色花堂",
-            "name": "色花堂",
+            "name": "色花堂｜1",
             "type": 3,
             "api": "csp_XBPQ",
             "filterable": 1,
@@ -563,7 +563,7 @@
         },
         {
             "key": "51短剧",
-            "name": "51短剧✨",
+            "name": "51短剧｜2",
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
@@ -608,7 +608,7 @@
         },
         {
             "key": "csp_XYQHiker_jable",
-            "name": "Jable④",
+            "name": "Jable④｜2",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
