@@ -76,6 +76,7 @@
             "key": "腾讯视频",
             "name": "腾讯｜视频",
             "type": 3,
+            "jar": "./jar/spider.jar",
             "api": "./js/drpy2.min.js",
             "ext": "./js/腾讯视频.js"
         },
