@@ -139,18 +139,33 @@
             }
         },
         {
-            "key": "MyPan189",
-            "name": "天翼｜网盘",
+            "key": "csp_Kugou",
+            "name": "酷狗音乐｜音乐",
             "type": 3,
-            "api": "csp_MyPan189Guard",
-            "spider": "https://nos.netease.com/ysf/478ea7147abb8a8b6876e722f53ee94b.txt;md5;313cee1e4b5c7805ddbff53dbc9e09b9",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 50,
-            "style": {
-                "type": "list"
-                "ratio": 1.433
+            "api": "csp_Kugou",
+            "jar": "./jar/Yoursmile.jar",
+            "playerType": 2,
+            "ext": {
+                "classes": [{
+                    "type_name": "酷狗",
+                    "type_id": "kugou"}]
             }
+        }, 
+		{
+			"key": "网易云音乐1",
+			"name": "网易云｜音乐",
+			"type": 3,
+			"api": "./PY1/网易云音乐1.py"
+		},
+        {
+             "key": "hipy_js_酷我听书[听]",
+             "name": "酷我听书｜听书",
+              "type": 3,
+              "api": "./js/drpy2.min.js",
+              "searchable": 1,
+              "quickSearch": 1,
+              "filterable": 1,
+              "ext": "./js/酷我听书[听].js"
         },
         {
             "key": "百度网盘",
