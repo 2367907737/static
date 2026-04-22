@@ -19,7 +19,7 @@
             "name": "配置｜中心",
             "type": 3,
             "api": "csp_Config",
-            "jar": "./jar/pg.jar",
+            "jar": "./jar/spider.jar",
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
