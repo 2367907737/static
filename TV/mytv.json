@@ -22,7 +22,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/javday.json",
+            "ext": "./XYQHike/javday.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.6
