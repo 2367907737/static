@@ -76,8 +76,8 @@
             "key": "腾讯视频",
             "name": "腾讯｜视频",
             "type": 3,
-            "jar": "./jar/spider.jar",
             "api": "./js/drpy2.min.js",
+            "jar": "./jar/spider.jar",
             "ext": "./js/腾讯视频.js"
         },
         {
@@ -106,7 +106,7 @@
         },
         {
             "key": "哔哩合集",
-            "name": "哔哩｜合集",
+            "name": "哔哩｜短视频",
             "type": 3,
             "api": "csp_Bili",
             "jar": "./jar/spider.jar",
@@ -125,7 +125,7 @@
         },
         {
             "key": "JAVDAYTV",
-            "name": "🔞JAVDAYTV",
+            "name": "JAVDAYTV",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -139,7 +139,7 @@
         },
         {
             "key": "csp_XYQHiker_missav.app",
-            "name": "🔞MissAV.app",
+            "name": "MissAV.app",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -164,7 +164,7 @@
         },
         {
             "key": "推特APP",
-            "name": "✨Aries|推特APP✨",
+            "name": "推特APP✨",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -207,7 +207,7 @@
         },
         {
             "key": "✨51短剧✨",
-            "name": "✨Aries|51短剧✨",
+            "name": "✨51短剧✨",
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
@@ -554,7 +554,7 @@
         },
         {
             "key": "色花堂",
-            "name": "🔞色花堂",
+            "name": "色花堂",
             "type": 3,
             "api": "csp_XBPQ",
             "filterable": 1,
@@ -563,7 +563,7 @@
         },
         {
             "key": "51短剧",
-            "name": "✨Aries|51短剧✨",
+            "name": "51短剧✨",
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
@@ -608,7 +608,7 @@
         },
         {
             "key": "csp_XYQHiker_jable",
-            "name": "🔞Jable④",
+            "name": "Jable④",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -622,7 +622,7 @@
         },
         {
             "key": "JAVDAY",
-            "name": "🔞JAVDAY",
+            "name": "JAVDAY",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./jar/XBPQ.jar",
@@ -642,7 +642,7 @@
         },
         {
             "key": "csp_XYQHiker_av6k",
-            "name": "🔞JAV6K",
+            "name": "JAV6K",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -656,7 +656,7 @@
         },
         {
             "key": "csp_XYQHiker_javffm",
-            "name": "🔞JAVFFM",
+            "name": "JAVFFM",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -670,7 +670,7 @@
         },
         {
             "key": "csp_XYQHiker_黄色仓库123",
-            "name": "🔞黄色仓库123✈️🔗",
+            "name": "黄色仓库123",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -681,26 +681,6 @@
                 "type": "rect",
                 "ratio": 1.6
             }
-        },
-        {
-            "key": "myphp",
-            "name": "我的PHP源",
-            "type": 4,
-            "api": "http://127.0.0.1:8901/全能王终端兼容修复版.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "php_server",
-            "name": "php爬虫",
-            "type": 3,
-            "api": "csp_PhpServer",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "timeout": 120,
-            "jar": "./jar/fm_xMydev.jar"
         }
     ],
     "parses": [
