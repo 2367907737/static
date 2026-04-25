@@ -1,101 +1,142 @@
 #EXTM3U  x-tvg-url="https://epg.cdn.loc.cc/xml,https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="央视",CCTV1
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=3565b17c80965786b5375ef67355f252f4d02edbba11945419f3be0d20c2c8a39549b190c9bb71492289ee267e11cba6e36d66200fdbb4b3ad65f6b475d7a7c12888b0cb11557bb7eb32441423b28ba6
+http://jason.25u.com:40222/udp/239.81.0.102:4056
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="央视",CCTV2
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=afd0e58ab5a0162c46e75cdaceec7c5b90a0ebe71328c22597ff1c747bf84828dce788fe08112b5ef3e67313ee0b4192eba98edbf7e40bfd698f622e0586234d429920faf8e0407cbca77702482c4e3f
+http://jason.25u.com:40222/udp/239.81.0.115:4056
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="央视",CCTV3
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=4a2cabbb367b6788add694a7e8fd52ea99300f21c8fa17378200d97cc3b7caad963a2047e8eb475e003c40f8f53367321f51dec68281fd4941181f27bb8f5bfef8d59c906708522e315fc818ec3e2e54
+http://jason.25u.com:40222/udp/239.81.0.231:4056
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="央视",CCTV4
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=1e2c10a02ab2e91a8b098883a0ac7e562f702bf86ad66a7bae3867dfa5ce13e6c719fcd8abe64eb2ede3e83a330773bd5e437fdde6b0a33482332610a591bc3c15bebb8e9144058171f0da43f09922c1
+http://jason.25u.com:40222/udp/239.81.0.96:4056
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="央视",CCTV5
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=404c0fd99a54ff1fba860e4e23b2032df3311051ae433f8d27317ea893140d9df88cfdecb8355bf39a387770181ef92fd3fab0cce41241a9b3323d43e1b347d87c3654b90bd827c97300f0ef0920b7be
+http://jason.25u.com:40222/udp/239.81.0.232:4056
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5+.png" group-title="央视",CCTV5+
+http://jason.25u.com:40222/udp/239.81.0.101:4056
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="央视",CCTV6
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=b78d464cf3ecc1d3361416d01c498c5f4f6cd033ba40b70036ef208137f6e583f8578641ff042303c6cc6f777c80058702e4f965d935a454899dbb4aa2d8920687f9c5b51376c57fe3f7f2d3d5fb6b6a
+http://jason.25u.com:40222/udp/239.81.0.233:4056
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="央视",CCTV7
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=d5f1f1a69ffba05300902482e8d61655ea1be7723c39a32510dc7dba29a428fb94eaaa266fa575dba7ef4219fb4de3b5676a7c1b4c3409138a6e988a67afe0a46e9b1469d0f374e3b437e111024636cc
+http://jason.25u.com:40222/udp/239.81.0.116:4056
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV8.png" group-title="央视",CCTV8
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=870b19fe76763152983d67845232b89f6c59c752e4508fd598659006ea5da36998e0cfae6549082d1f6a93ad74bf1372229597d608de7fa014d92c20cd91101811ad1c2cb5a844dfb47dc2ad6626a617
+http://jason.25u.com:40222/udp/239.81.0.234:4056
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="央视",CCTV9
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=0fd94d0bdc2bc04572732dd7a2a44eb3d398c4ab96fb1526408e2efd546581b2e9665f40418ccc375bde353cfe17a6477e7b6da8ba4c8734cea7348301db3c29a05558da4befebf7e5d83a39c2ff208f
+http://jason.25u.com:40222/udp/239.81.0.117:4056
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV10.png" group-title="央视",CCTV10
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=92c337f1d21cd9cc8277418e3e30bbe708b79298cd19e78d0e6bfe794b62134f5b377ae0746e5a9c13c244b140a530848d6f65fd8f19a25741c85d9b2de76f87ec1fa5a329c7292d70289330d4369d6a
+http://jason.25u.com:40222/udp/239.81.0.118:4056
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV11.png" group-title="央视",CCTV11
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=5eea7c924b8e6e0f208983aaa5bc56cd21943588f246118b3545a90d556dc5c2903f29e6f73c1a74b6d76f9703578387dd69f2eede2312b5d3ebf70a5ca2f4d796bf84213c9b80180061630a933cd86a
+http://jason.25u.com:40222/udp/239.81.0.229:4056
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="央视",CCTV12
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=d47c0045d9d7286212726c8daf1295316c472caec265d7ca78a320f8377d7777112e8833d4d584b9fa118cf8b5a9fb55a943305d3edbb6fccf9ce0552d0c810bd68ba1e61240bf1699b7f0b2aeb97f08
+http://jason.25u.com:40222/udp/239.81.0.119:4056
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="央视",CCTV13
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=0618a11d5daeef412d7a37a9449080949fd40bf2c47c55cb19d92e9b82745a54a80a7985b7ee8550e3eb1ce294f2016cef8f5b1b071022c452db41f2a742ec66a76f45c39d403c1365190ffa077a647a
+http://jason.25u.com:40222/udp/239.81.0.206:4056
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV14.png" group-title="央视",CCTV14
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=b050905ce793994452487f8e28083ea6347bbb3279cf5990d4b2e95622fb1bd483dc28bd2c8d00d6fcbc533f602220f330c33307145192c27cfbf01b40f86d9987c5737b4248cd9dd39562db6e73e086
+http://jason.25u.com:40222/udp/239.81.0.120:4056
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="央视",CCTV15
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=10ee08ebff60665446f147f4314ea9e8de8bd50d586fd2f715c77d11eebaaef4d7b0ddbadf7c637f7105e5f0275d6e8a334a73f20f2986e473c6627027b7f4cb1c6969b683bfe24d30d898f57ed48997
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="央视",CCTV16
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=3fb9ddb2ff058e7296dac891a21c001cb4549cc51db02bcab50288052f5e370406559c00442c73f7ffe7bf63f7a5cf00202f631a51a57184eda6ce519955e6176baa65c2fae9685342e3c255221b5cdf
+http://jason.25u.com:40222/udp/239.81.0.230:4056
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="央视",CCTV17
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=1e7b2fc5d95ae85bb0071e74798412df1f88dde6148e7c7519f1f6f733d98f24480c96cf628e953b53e8c5a0eaa217fc514f5a0f94b91c69f99f3914e77013728cf002d3ed3eb7857e227155813d83c7
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视.png" group-title="卫视",广东卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=f342a19247e0954c7d515cec6431d01335871a94245c5b6b621ed98cd35012926733e8ff8d91f497f82eb96031f7434b7d6e83b77d8a49d90b5b07efd21dd97fe2bb5c7854088799e5aecf2606b3dda7
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/深圳卫视.png" group-title="卫视",深圳卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=75e38790a71e29eb37d72fa96b264e60453f70a99b5a24b1df6d71f1b20553bdf45a3e4757d48631452020187581db8b7d87bf3e1b481dc47ddf6d60d0b8445ba35ca0fddbea6866c438958a075b338c
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方卫视.png" group-title="卫视",东方卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=1ef3d3383ad98f48649f382d860d8cc1a6296e44945861d1b163f9a9abb3cb9429a170f13b8b363ae2843da195062cc5535546f74402d693910ea1f465fab8470c42efedb123f2c5481a6560a06e169f
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京卫视.png" group-title="卫视",北京卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=d13670ffb2b2ace8ba9df542b67de10f38768eafe699baf4b9516b2398e163efe9998814c2ec2978dadbf307e343df37bc1a717f08e5be671dc57d9bf56a7f7bbd3b3de730bb71b7ee80604ec942b1c7
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南卫视.png" group-title="卫视",湖南卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=2c5997f2fce19e9a183d67f8dfc29881a59fb836fdfcbb5f8f062dfc9e0dd01e7faa01594898c0be3c3cabe10757a0b76a657d87f3dafe9813f3e0510f49fc0574ba6b898c1f9f64dc283b42ac9cdf29
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江卫视.png" group-title="卫视",浙江卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=a94f98392e3ab62f41f0b0ac59b302c7c306f0660d66bdc00ac9a24d1553d7d883f1cf050b5110f0bb66f7fafd3b33d5f0196d4e7c510c95a8f9101d551169b168a9e6304dd5496b120ce1a995718589
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏卫视.png" group-title="卫视",江苏卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=0e7fe6b485400649a2db717efff1105d065862b436cb73a6cc798189d8b3ee8774d43318798dd7c00f1a4ae878d137c9b5e77e11afee4ccc16856b4597ce8fc21d72ea87e77a4c220a2dfc53f6461f34
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=dfee41c3c2203a9525bdc75324986bc9c7e9a22d0adc5b3e1af86a363818b01334b7638d31694ba1c42bf1229a3633b2336d0775f59e194a9afc6a8ca0d29e7eb3bfe6b3687cc3e05ec47e33dd652c42
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/天津卫视.png" group-title="卫视",天津卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=97d2d0593c92e1da0c83a1163161c715def788925244d458798daca202b8b9156d5ba0e805773b79134790b36707472318bb6963a9d83117629f652cd6f1042b7d847f46aa4ba57862b8854891a130e2
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山东卫视.png" group-title="卫视",山东卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=c33ec429684d8bc06fba07f7ce90bd192e464ec95986d95db92d5c4cbea99f00c03e6c0c6e8e88931403befaa288d46c2395d34d36a0342c709f7b887f5ee96483f35ae3d6c4ef893d8e12f09d2b7735
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖北卫视.png" group-title="卫视",湖北卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=4795fd36dedf5fbd2d77f778c27c0a3f6010ebac0b6aa65c23afef1bf9dce5214ecf16d8c0aef25d8201f05e179712c5680ad874ef0e194645cd8414baae95816f341ad43fc6b43b95749ff8ec5fcd7f
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/安徽卫视.png" group-title="卫视",安徽卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=5c0876100b09d1b386f6eb30ff56ddaf7a2ba17a63162533c3565bcc14df44653d2783b47c957ec6c0c540e81e5a2a83006c62e60efe424cf61ebc667fadadb97837346570ae59f56cb14861edbb6ce8
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/辽宁卫视.png" group-title="卫视",辽宁卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=6a89be8ac89d499c3bd4dc5650baacec61f731c1b35b6956004c89ac9ce2a32e60e3c92f218ce80882fef5f3975bc417f8562c19b0894c5b0e521a4f995b55570d8f0730eff0710bdbd1cb4bd0020c79
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/贵州卫视.png" group-title="卫视",贵州卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=880532c965402d145dd8a4ee70923248a70c8ce9be738941a67fecff9e9d616cfd11e15a2fd205f2041fb06098161db8b3aee9952ec482c8005e1414a21ebc8c5968d35fe1f94b62ab564273ef578999
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/四川卫视.png" group-title="卫视",四川卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=fd29233e4a3b4b96ff280c01d411c0be87c7920b259c2a579ae2d4d4b2bb0187041d955499a5a46ab69c91f314ac31d2bd9a2f8179c1c3c42e61f50be6b1aca09465c383d76678c03cee96799d4e7fec
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/重庆卫视.png" group-title="卫视",重庆卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=ae1d8a9c592f300d0dbdc8c3bc44ae82a20d5b747a553ff47311691bb5d96e9b2b4a140f94dcd40c93bfa5988a5beeaa5624c8f46c657c332286e567557596860f9d40bbf04b6134deff3188d491fc17
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河北卫视.png" group-title="卫视",河北卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=a992711c210d5691a603f1c71629c478f03ae0201e472ecac75b26b77bf36c654005cbea3d6aaaf3af1fe49c87dfc322700ee782973548dff797b7c3e12007d23958e1206a61f31c2484f4a01d91544a
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江西卫视.png" group-title="卫视",江西卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=ced4330b4e8e7739a8ac611972b556b104c841f45bbc1036fc79aac37649b947a1553f0b9e6f447ac9b7f7a43fbc8c54d571ffb5cd5c8e4530a2987c4ea01ff37bef644585fe748a55982744c7ae0c3f
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东南卫视.png" group-title="卫视",东南卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=ae37fa30670ae4e8d92a098c9cca28906437eaf168ced4f1c9d8d558e49040ebd6457ecad8c520458a845f50d7cd7f11bba09861ceab6c354b5070468ca00bb178c53361027d6dd6d51441afb8ef5a4a
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河南卫视.png" group-title="卫视",河南卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=4ce0244ac47394a764bd3ada2a9595a28a0b11007f5fb4637942881be09a9eaed8d3104aa2536b0e01d347e27a9960dbb8e7eb8ef340fe8e642bc33f8dab6625a018d0cb596fdfcca1206d5345deea10
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/吉林卫视.png" group-title="卫视",吉林卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=c7a40817e12fe546c652ffe316d198733672b96caee845c6f6e7c8546beedfb451734bb83beb30538ecc3597774531612217b9c638f2b3ab2ffae83b7a8c63ed6533c11fa2bb7a7f67e66feae9eb0e51
+http://jason.25u.com:40222/udp/239.81.0.228:4056
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CGTN.png" group-title="央视",CGTN
+http://jason.25u.com:40222/udp/239.81.0.28:4056
+#EXTINF:-1 tvg-name="CCTV中学生" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV中学生.png" group-title="央视",CCTV中学生
+http://jason.25u.com:40222/udp/239.81.0.87:4056
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV1.png" group-title="央视",CETV1
+http://jason.25u.com:40222/udp/239.81.0.92:4056
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV1.png" group-title="央视",CETV1
+http://jason.25u.com:40222/udp/239.81.0.52:4056
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV2.png" group-title="央视",CETV2
+http://jason.25u.com:40222/udp/239.81.0.245:4056
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV4.png" group-title="央视",CETV4
+http://jason.25u.com:40222/udp/239.81.0.246:4056
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西卫视.png" group-title="卫视",广西卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=e756bda7894469e4eedc077fe4d2f8f34616c22189d59394f391b6a3fa8d2e1d11ed0fb4efe766838e676ed77925a0b08ff9d1d651e4124c56c6341ca918f74b7df0b45ebacaaf1b2953ce9b709477b7
+http://jason.25u.com:40222/udp/239.81.0.107:4056
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京卫视.png" group-title="卫视",北京卫视
+http://jason.25u.com:40222/udp/239.81.0.109:4056
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/天津卫视.png" group-title="卫视",天津卫视
+http://jason.25u.com:40222/udp/239.81.0.113:4056
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方卫视.png" group-title="卫视",东方卫视
+http://jason.25u.com:40222/udp/239.81.0.111:4056
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方财经.png" group-title="卫视",东方财经
+http://jason.25u.com:40222/udp/239.81.0.76:4056
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/重庆卫视.png" group-title="卫视",重庆卫视
+http://jason.25u.com:40222/udp/239.81.0.47:4056
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江卫视.png" group-title="卫视",浙江卫视
+http://jason.25u.com:40222/udp/239.81.0.108:4056
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/安徽卫视.png" group-title="卫视",安徽卫视
+http://jason.25u.com:40222/udp/239.81.0.211:4056
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏卫视.png" group-title="卫视",江苏卫视
+http://jason.25u.com:40222/udp/239.81.0.106:4056
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山东卫视.png" group-title="卫视",山东卫视
+http://jason.25u.com:40222/udp/239.81.0.114:4056
+#EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山东教育卫视.png" group-title="卫视",山东教育卫视
+http://jason.25u.com:40222/udp/239.81.0.93:4056
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://jason.25u.com:40222/udp/239.81.0.210:4056
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/吉林卫视.png" group-title="卫视",吉林卫视
+http://jason.25u.com:40222/udp/239.81.0.58:4056
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://jason.25u.com:40222/udp/239.81.0.105:4056
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://jason.25u.com:40222/udp/239.81.0.54:4056
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://jason.25u.com:40222/udp/239.81.0.60:4056
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://jason.25u.com:40222/udp/239.81.0.207:4056
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/青海卫视.png" group-title="卫视",青海卫视
+http://jason.25u.com:40222/udp/239.81.0.53:4056
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/新疆卫视.png" group-title="卫视",新疆卫视
+http://jason.25u.com:40222/udp/239.81.0.46:4056
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/兵团卫视.png" group-title="卫视",兵团卫视
+http://jason.25u.com:40222/udp/239.81.0.213:4056
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/西藏卫视.png" group-title="卫视",西藏卫视
+http://jason.25u.com:40222/udp/239.81.0.55:4056
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/云南卫视.png" group-title="卫视",云南卫视
+http://jason.25u.com:40222/udp/239.81.0.45:4056
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/四川卫视.png" group-title="卫视",四川卫视
+http://jason.25u.com:40222/udp/239.81.0.130:4056
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/贵州卫视.png" group-title="卫视",贵州卫视
+http://jason.25u.com:40222/udp/239.81.0.95:4056
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/海南卫视.png" group-title="卫视",海南卫视
+http://jason.25u.com:40222/udp/239.81.0.48:4056
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/三沙卫视.png" group-title="卫视",三沙卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=2424302896927855b4aa9fabb698069b761d58e4f0681830a80ff51bb22ecd3af9ba7b82755843b7e5952b47365d36494633724b7c43130cb5c17b42ad5c87be5ce35e9eca756d3215aa3eed6433f0b3
+http://jason.25u.com:40222/udp/239.81.0.242:4056
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视.png" group-title="卫视",广东卫视
+http://jason.25u.com:40222/udp/239.81.0.104:4056
+#EXTINF:-1 tvg-name="南方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/南方卫视.png" group-title="卫视",南方卫视
+http://jason.25u.com:40222/udp/239.81.0.32:4056
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/深圳卫视.png" group-title="卫视",深圳卫视
+http://jason.25u.com:40222/udp/239.81.0.103:4056
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南卫视.png" group-title="卫视",湖南卫视
+http://jason.25u.com:40222/udp/239.81.0.110:4056
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖北卫视.png" group-title="卫视",湖北卫视
+http://jason.25u.com:40222/udp/239.81.0.112:4056
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/陕西卫视.png" group-title="卫视",陕西卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=cc50c0895ac96051d66bc8cac4c04d7584aea6a84b9d302f1be74eb1574af022422e90b95455a84d0b6213fae49b4e0146ea6848c0aa565863443ebccc83f20fed133abe8c3cbbe9c2a96a28c03d714f
-#EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/星空卫视.png" group-title="卫视",星空卫视
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=f5c3cdb769f8e55463012dde1248e80102b1cb3f98be41bc56c699c805cc2de9105a33f8a1d21ae5e735d33e2fdbc0e8e35288ebc658026ec8b7b854346f9cf62ed227be440485082335179055ee0fbe
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卫视",金鹰卡通
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=f6bcf6fa0cf26330e1f017b2d806114b354633f335074a9f8a2fd7ef09aad67c395588c61f3dbf67f46d59ee18bfbf865e3726251c20e89c1448bf57da87d7c51bf3b09d9dd927532491ffd346209d48
+http://jason.25u.com:40222/udp/239.81.0.89:4056
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山西卫视.png" group-title="卫视",山西卫视
+http://jason.25u.com:40222/udp/239.81.0.49:4056
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河南卫视.png" group-title="卫视",河南卫视
+http://jason.25u.com:40222/udp/239.81.0.44:4056
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河北卫视.png" group-title="卫视",河北卫视
+http://jason.25u.com:40222/udp/239.81.0.94:4056
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江西卫视.png" group-title="卫视",江西卫视
+http://jason.25u.com:40222/udp/239.81.0.204:4056
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东南卫视.png" group-title="卫视",东南卫视
+http://jason.25u.com:40222/udp/239.81.0.215:4056
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/厦门卫视.png" group-title="卫视",厦门卫视
+http://jason.25u.com:40222/udp/239.81.0.212:4056
+#EXTINF:-1 tvg-name="广西综艺" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西综艺.png" group-title="卫视",广西综艺
+http://jason.25u.com:40222/udp/239.81.0.214:4056
+#EXTINF:-1 tvg-name="广西影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西影视.png" group-title="卫视",广西影视
+http://jason.25u.com:40222/udp/239.81.0.250:4056
+#EXTINF:-1 tvg-name="广西新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西新闻.png" group-title="卫视",广西新闻
+http://jason.25u.com:40222/udp/239.81.0.248:4056
+#EXTINF:-1 tvg-name="广西都市" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西都市.png" group-title="卫视",广西都市
+http://jason.25u.com:40222/udp/239.81.0.247:4056
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/嘉佳卡通.png" group-title="卫视",嘉佳卡通
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=dbc919bc3c747a41d1f3d2a4b9cd6760d21dd8df0841fa20090a698cd4eb1e76a6ddb3f38c7d3e914eb914e055c4a2cd7690ef34a9cfef8fd415e29ebef83bef4c811f3935d5240312f37b97bfc42b7b
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/卡酷少儿.png" group-title="卫视",卡酷少儿
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=6ebf55a470e9a6bb4dd288989b42ecdd0191c81687c269dc38c0261c56aeda2660130102ce1fd6075ed4dee051fa1cbfc78c3bb77ac16749707b41fc997e6a1f32bf3f750c1b089f3996d81c525f7334
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/都市剧场.png" group-title="卫视",都市剧场
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=831a87bcdb484f53d31678fb20d81772939719bc7d5e13f304ed9210fdd3845e2d087339d236433770bb4de2efff8813cee48eec0b150e72fcc920a659cc5f30b128db9d8fc457a07f18968898c13cc3
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/动漫秀场.png" group-title="卫视",动漫秀场
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=d7789e5e55de595a7578a2ed24adb89e84faa9704101fc561bf2878efadd6d00e1f59990902648ed31cc23330c78a8a33c45aaf3a3bea141be8e302e1bd56e1fc7a0fecbb5dc14e992602d742c985d3e
-#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京纪实科教.png" group-title="卫视",北京纪实科教
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=fc160c55f4dc79cf89c6c41604625863c9fe2d43c94d599fb5ace444688844024b9ea892a1784ce11d5399c879dbcb24b02a23ab0505b65e959a77711446a00d42e96f20e87e87680c4ed0ccb89dd9e4
-
+http://jason.25u.com:40222/udp/239.81.0.64:4056
+#EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/卡酷动画.png" group-title="卫视",卡酷动画
+http://jason.25u.com:40222/udp/239.81.0.62:4056
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/金鹰卡通.png" group-title="卫视",金鹰卡通
+http://jason.25u.com:40222/udp/239.81.0.61:4056
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/新动漫.png" group-title="卫视",新动漫
+http://jason.25u.com:40222/udp/239.81.0.235:4056
 
 
 
@@ -103,69 +144,76 @@ https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/CC.php?url=fc160c55f4dc79cf
 #EXTINF:-1 tvg-name="惊艳" tvg-logo="https://live.fanmingming.com/tv/惊艳.png" group-title="其他",惊艳
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts&line=1
 #EXTINF:-1 tvg-name="惊艳" tvg-logo="https://live.fanmingming.com/tv/惊艳.png" group-title="其他",惊艳
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/BB.php?url=96c22cc011c8d640d38b6803edfaf6b87f3f968327520c0be5ed7dad61730d51b8390a03fedbe09896eed1fbf21f6f07e2e63d7fafb6ff3098aebe3bc72bcb9cc2ce54545eed425542b9016f7541ab4e&line=2
+https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=https://lc.aacalive.com:26789/i/ghjnvq5o/sajdxxzc/index.m3u8&line=2
 #EXTINF:-1 tvg-name="惊艳" tvg-logo="https://live.fanmingming.com/tv/惊艳.png" group-title="其他",惊艳
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/XX.php?url=96c22cc011c8d640d38b6803edfaf6b87f3f968327520c0be5ed7dad61730d51b8390a03fedbe09896eed1fbf21f6f07e2e63d7fafb6ff3098aebe3bc72bcb9cc2ce54545eed425542b9016f7541ab4e&line=3
+p3p://94.130.51.14:19906/60626a1b00010e3e6f5a5a4f018e5ebe&line=3
 
 #EXTINF:-1 tvg-name="多拉" tvg-logo="https://live.fanmingming.com/tv/多拉.png" group-title="其他",潘多拉
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts&line=1
 #EXTINF:-1 tvg-name="多拉" tvg-logo="https://live.fanmingming.com/tv/多拉.png" group-title="其他",潘多拉
-http://iptvpro.pw:35451/live/加QQ群468112791/9907211215/981.ts&line=2
+https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c855d75/index.m3u8&line=2
 #EXTINF:-1 tvg-name="多拉" tvg-logo="https://live.fanmingming.com/tv/多拉.png" group-title="其他",潘多拉
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/XX.php?url=61c8367fb3967c997f14b80d288bb7c597d889d6aaa8db51e229bb2352678b3e7f9e92384b473d8291015cd4aa8aea5fe43877e567cb907b44ae65b47991aa61f058709d99eb28ff3ef8e6abf8de183f&line=3
+p3p://94.130.51.14:19906/5fe4450c000c918b829fca233c845311&line=3
 
 #EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://live.fanmingming.com/tv/香蕉台.png" group-title="其他",香蕉台
-http://bl.qxshares.com/live/d9ce52738d239bcd724750f5995c7606.flv&line=1
+https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/JB.php?url=http://125.227.210.55:1009/VideoInput/play.ts&line=1
 #EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://live.fanmingming.com/tv/香蕉台.png" group-title="其他",香蕉台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts&line=2
 #EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://live.fanmingming.com/tv/香蕉台.png" group-title="其他",香蕉台
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/BB.php?url=fb5965977f74374649ad5eb3125167a0098b575633ba31a5f0a2277a5b54bc5be1dabf4b7b78a0145c38aa982d6fed29326aab78413c264f2e5a73f91f6e0a1cd5fdab6c6d3b456cb4a5a24734ca1c16&line=3
+https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/mdfdc123/index.m3u8&line=3
 #EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://live.fanmingming.com/tv/香蕉台.png" group-title="其他",香蕉台
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/XX.php?url=fb5965977f74374649ad5eb3125167a0098b575633ba31a5f0a2277a5b54bc5be1dabf4b7b78a0145c38aa982d6fed29326aab78413c264f2e5a73f91f6e0a1cd5fdab6c6d3b456cb4a5a24734ca1c16&line=4
+p3p://94.130.51.14:19906/60626a760005067e6f5bbecb5816771e&line=4
 
 #EXTINF:-1 tvg-name="松₁" tvg-logo="https://live.fanmingming.com/tv/松₁.png" group-title="其他",松₁
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts&line=1
 #EXTINF:-1 tvg-name="松₁" tvg-logo="https://live.fanmingming.com/tv/松₁.png" group-title="其他",松₁
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/BB.php?url=13510974a8c45d0e687c2572a4543ce68468b976b446bc41471db984f0a0c63591625cea0017a748dcc31159487a2e228817035d5ee05a4f3f1a240a0326184a107d79c0d770a2984ed2a0e5d883d847&line=2
+https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c85giea/index.m3u8&line=2
 #EXTINF:-1 tvg-name="松₁" tvg-logo="https://live.fanmingming.com/tv/松₁.png" group-title="其他",松₁
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/XX.php?url=387157db6e103fff89c3477ca9c92f4743ade3db2b710150e5c7bc2d8ff35bfe1f9ca891f8697464d1ae4dfb716119fc77e158a62cda6ae94f44d66bdaa0c7eda3083d3f93dea40051fea9230d2159bb&line=3
+p3p://94.130.51.14:19906/5fe445280008a40682a0367c343436bb&line=3
 
 #EXTINF:-1 tvg-name="松₃" tvg-logo="https://live.fanmingming.com/tv/松₃.png" group-title="其他",松₃
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts&line=1
 #EXTINF:-1 tvg-name="松₃" tvg-logo="https://live.fanmingming.com/tv/松₃.png" group-title="其他",松₃
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/BB.php?url=2c2f1f9c5acdc7f4b4262c04c3ae77e94077756911b374af85c1869f8303f0e6ffe9938d47e63d4db4175ac2f818f9ab75caae9ee229663b808e565851546c401550c41fb81b87223593610ca38814ec&line=2
+https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/BB.php?url=&line=2
 #EXTINF:-1 tvg-name="松₃" tvg-logo="https://live.fanmingming.com/tv/松₃.png" group-title="其他",松₃
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/XX.php?url=2c2f1f9c5acdc7f4b4262c04c3ae77e94077756911b374af85c1869f8303f0e6ffe9938d47e63d4db4175ac2f818f9ab75caae9ee229663b808e565851546c401550c41fb81b87223593610ca38814ec&line=3
+p3p://94.130.51.14:19906/6109e9590001f40bfd9b661109395f3b&line=3
 
 #EXTINF:-1 tvg-name="JStar" tvg-logo="https://live.fanmingming.com/tv/JStar.png" group-title="其他",JStar
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/BB.php?url=697deae2fcc2a917eab17b4574bf4ad8ad64338d9b61bb4178f41d23b8100b1b4422a1e810a19abc1dd3a32b270d3c9158588f06eb02258a6e54ff379a8b77a4f12f46a1b87c0fb25d84ebbf45c0460f
+https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c855fdf/index.m3u8&line=1
+p3p://94.130.51.14:19906/6109e9bb0005fd87fd9ce5ea2c1f18d3&line=2
 #EXTINF:-1 tvg-name="彩虹🅴" tvg-logo="https://live.fanmingming.com/tv/彩虹🅴.png" group-title="其他",彩虹🅴
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/BB.php?url=f067d62e8fc4b1c954aab739b500900080cd4a3c32cf8b760c4ce5a2aebc5a52f50f7cfb2c4c9daf6144be033eecd0594d1ade9fee2f672378ff3f1d379ae2511c0f3239ab0177511a5b0ba153eff3e6
+https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c855daa/index.m3u8&line=1
+p3p://94.130.51.14:19906/6062716c0008efc86f76f0c44d55329f&line=2
+#EXTINF:-1 tvg-name="456833" tvg-logo="https://i.meee.com.tw/IrGywc9.png" group-title="其他",彩虹K
+p3p://94.130.51.14:19906/63fd56ec000b5f0d26d4fe1b07963493
+#EXTINF:-1 tvg-name="456832" tvg-logo="https://i.meee.com.tw/2OiOACs.png" group-title="其他",彩虹电影
+p3p://94.130.51.14:19906/6253066c00049259f74b05224cf375e6
 #EXTINF:-1 tvg-name="麻豆" tvg-logo="https://live.fanmingming.com/tv/麻豆.png" group-title="其他",麻豆
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/BB.php?url=2817aa548e58fdf1251d423106d1adb3526d700795beab3e38145255150926b7836e3e242c47592864e5093186c5fc4064cc8903bbffc45268a75fd4fa4513b5ca8bd79e7946b7ec4c656169443838b2
-#EXTINF:-1 tvg-name="中字劇場1" tvg-logo="https://live.fanmingming.com/tv/中字劇場1.png" group-title="其他",中字劇場1
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/BB.php?url=de2101144e92bb6e392a457005123ee60adcc1183e7a2454debbaf1adaf364ef5258b483664db36940119733ca41e251a72c0a569a026067639d25b097f20b535e3156e9eb5592205223f0b49551d532
-#EXTINF:-1 tvg-name="中字劇場2" tvg-logo="https://live.fanmingming.com/tv/中字劇場2.png" group-title="其他",中字劇場2
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/BB.php?url=72d3eb3087ef4d8b8fe7b9577373665a5d3a206a61d2ffb0bc172daed498b4e5b61c1be9d88cd10b2fed221ed2ce07913621cb7949d75594fa87ce049f2562686778014a88ce08f21492fe8b8a07e919
-#EXTINF:-1 tvg-name="中字劇場3" tvg-logo="https://live.fanmingming.com/tv/中字劇場3.png" group-title="其他",中字劇場3
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/BB.php?url=b334c4c5b907f99df2e0465c4c2ca932b827f0582ee8eb9c7c6a6f3da440b28c7fc1e63da6b89dfcec3285d46e4515b714c443da8519959ddbc7656044841ead0c7808e85b1ca0c8c77080508619cdca
-#EXTINF:-1 tvg-name="中字劇場4" tvg-logo="https://live.fanmingming.com/tv/中字劇場4.png" group-title="其他",中字劇場4
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/BB.php?url=c34b6d349f89248200642714c39887fa3066b0b9cf702316ac5be6760ef0b3cb6ac6e6d933a9e9c3d95954a403012324e61cf6f88b717fcddaee002484f92fc13877b5130a8d36f9e155f9054cce8e02
-#EXTINF:-1 tvg-name="中字劇場5" tvg-logo="https://live.fanmingming.com/tv/中字劇場5.png" group-title="其他",中字劇場5
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/BB.php?url=37c90042728b0aa3db2066c46ec1b9897304ae67448aee9526578ad56297802bbf0b48ced16e10e0a71a7eb83cce018c23eb334425733449e9947edf04d5527f9ae5fd01ef0a8811c146d310388bfea4
-#EXTINF:-1 tvg-name="中字劇場6" tvg-logo="https://live.fanmingming.com/tv/中字劇場6.png" group-title="其他",中字劇場6
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/BB.php?url=eea116836c30a508fbd43e6c32dd373798d4ed68fc4e176c4d44a543189d7f372225dffc8c8456f640ed956e9cda451db0f09d4b7516af960e3e98b7efe5c4c68604de5bf6b69c050efa70a593307da3
-#EXTINF:-1 tvg-name="高清无码1" tvg-logo="https://live.fanmingming.com/tv/高清无码1.png" group-title="其他",高清无码1
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/BB.php?url=021db96e6aed3612757c857ea657a4cb62eaaebb6b8dd3cc45e6fca408c7cfe4dcbf55366efe5b04e281b62f2426c889e8806d3d04557d8f5f5df31c139767aa864b1b1cf5fb19f6b3cec4876523c6fe
-#EXTINF:-1 tvg-name="高清无码2" tvg-logo="https://live.fanmingming.com/tv/高清无码2.png" group-title="其他",高清无码2
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/BB.php?url=1cc3c30c6102f764e1ee66e81df8c4644312db92d579352d6878e6d2beed9841b724483392242d0813e3b5f7e0bf8786f7d7985d036a27c39f10f8086578f3a8020c73c51343778692cc2fb4ce4e954b
-#EXTINF:-1 tvg-name="高清无码3" tvg-logo="https://live.fanmingming.com/tv/高清无码3.png" group-title="其他",高清无码3
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/BB.php?url=5bb557643d51e2130282b90d4def6f19ab305e49ca1e098d5e173de7fadea1bb47e44e9e5d779ebbb74b37de8f0bf026272c6cf5bb25966101f758d07fe968412a5e6dc5e56874f28cfb617f9e8a27b1
-#EXTINF:-1 tvg-name="高清无码4" tvg-logo="https://live.fanmingming.com/tv/高清无码4.png" group-title="其他",高清无码4
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/BB.php?url=ee8c0e13438f4bff155baeef14fa07060da3be8c79f511e9fbeb9e3499199d6194f96b1ea6c275c6f6cfbd071eda2893fa6356afc614b2362096110de947c83f7681f4d319bc571d630d929dd1c05027
-#EXTINF:-1 tvg-name="高清无码5" tvg-logo="https://live.fanmingming.com/tv/高清无码5.png" group-title="其他",高清无码5
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/BB.php?url=0c50c71f278e29256cb124413a541d3e17d0eb9547f923701c379a4d3d57511bc0cb4be5971e9fc2a18293d134bb8058151ee1aaae1e813eb7ebe7c7762bac981c9b2529fc4a29f09cedcbcc9cc72eed
-#EXTINF:-1 tvg-name="高清无码6" tvg-logo="https://live.fanmingming.com/tv/高清无码6.png" group-title="其他",高清无码6
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/BB.php?url=0362abfa1cc67d5d911932051669a8281b6d1e4a2b8195ee1022007639069edf3fd659ee7c89113a00d7071ad212647b1bb0ab7e5296974dd5ec33d1bfff689c0796ff06c89c43ca260072809fe96c49
-#EXTINF:-1 tvg-name="高清无码7" tvg-logo="https://live.fanmingming.com/tv/高清无码7.png" group-title="其他",高清无码7
-https://yprmnawrngxg.ap-northeast-1.clawcloudrun.com/BB.php?url=f0dedb781622b1f9fa0d94b3818eb5bdf85d43240524cfd7049428d1919266153cf944551b2454fe5f780b6672f1d90f7f60792e23fc4ce4e818bd0e3ad44b6e880f63231e2c4729e0658f3f2e8ed683
+https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/asdm3134/index.m3u8&line=1
+p3p://94.130.51.14:19906/606271190002a1266f75aaee0463186a&line=2
+#EXTINF:-1 tvg-name="中字劇場1" tvg-logo="https://i.meee.com.tw/8AwiDll.png" group-title="其他",中字劇場1
+https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8jainsbq/index.m3u8
+#EXTINF:-1 tvg-name="中字劇場2" tvg-logo="https://i.meee.com.tw/8AwiDll.png" group-title="其他",中字劇場2
+https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/v19a2133/index.m3u8
+#EXTINF:-1 tvg-name="中字劇場3" tvg-logo="https://i.meee.com.tw/8AwiDll.png" group-title="其他",中字劇場3
+https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/56ffe9b8/index.m3u8
+#EXTINF:-1 tvg-name="中字劇場4" tvg-logo="https://i.meee.com.tw/8AwiDll.png" group-title="其他",中字劇場4
+https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/2a8cba45/index.m3u8
+#EXTINF:-1 tvg-name="中字劇場5" tvg-logo="https://i.meee.com.tw/8AwiDll.png" group-title="其他",中字劇場5
+https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/48a8dcb9/index.m3u8
+#EXTINF:-1 tvg-name="中字劇場6" tvg-logo="https://i.meee.com.tw/8AwiDll.png" group-title="其他",中字劇場6
+https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/e8f7e463/index.m3u8
+#EXTINF:-1 tvg-name="高清无码1" tvg-logo="https://i.meee.com.tw/phIWwOM.png" group-title="其他",高清无码1
+https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/846a1ghm/index.m3u8
+#EXTINF:-1 tvg-name="高清无码2" tvg-logo="https://i.meee.com.tw/phIWwOM.png" group-title="其他",高清无码2
+https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/1bf4a301/index.m3u8
+#EXTINF:-1 tvg-name="高清无码3" tvg-logo="https://i.meee.com.tw/phIWwOM.png" group-title="其他",高清无码3
+https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/ahun18hg/index.m3u8
+#EXTINF:-1 tvg-name="高清无码4" tvg-logo="https://i.meee.com.tw/phIWwOM.png" group-title="其他",高清无码4
+https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/84a15gbc/index.m3u8
+#EXTINF:-1 tvg-name="高清无码5" tvg-logo="https://i.meee.com.tw/phIWwOM.png" group-title="其他",高清无码5
+https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/952a3vvv/index.m3u8
+#EXTINF:-1 tvg-name="高清无码6" tvg-logo="https://i.meee.com.tw/phIWwOM.png" group-title="其他",高清无码6
+https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/984fa1vb/index.m3u8
+#EXTINF:-1 tvg-name="高清无码7" tvg-logo="https://i.meee.com.tw/phIWwOM.png" group-title="其他",高清无码7
+https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/456oinav/index.m3u8
