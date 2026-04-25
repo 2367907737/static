@@ -33,10 +33,10 @@
 			"name": "OK影视应用更新",
 			"type": 3,
 			"api": "csp_Market",
-			"jar": "./jar/fm.jar"
 			"searchable": 0,
 			"changeable": 0,
-			"ext": "./json/market.json",
+			"ext": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/market.json",
+			"jar": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/fm.jar"
 		},
         {
             "key": "木偶",
