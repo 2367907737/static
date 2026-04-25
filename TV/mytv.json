@@ -8,7 +8,7 @@
             "name": "🏰 豆瓣┃首页",
             "type": 3,
             "api": "csp_Douban",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/spider.jar",
+            "jar": "./jar/spider.jar",
             "searchable": 0,
             "changeable": 1,
             "indexs": 1,
@@ -19,7 +19,7 @@
             "name": "配置｜中心",
             "type": 3,
             "api": "csp_Config",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/spider.jar",
+            "jar": "./jar/spider.jar",
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
@@ -43,7 +43,7 @@
             "name": "木偶｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/spider.jar",
+            "jar": "./jar/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -63,7 +63,7 @@
             "name": "二小｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/spider.jar",
+            "jar": "./jar/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -84,7 +84,7 @@
             "name": "哔哩｜视频",
             "type": 3,
             "api": "csp_BiliYS",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/spider.jar",
+            "jar": "./jar/spider.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -102,7 +102,7 @@
             "name": "腾讯｜视频",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/spider.jar",
+            "jar": "./jar/spider.jar",
             "ext": "./js/腾讯视频.js"
         },
         {
@@ -110,7 +110,7 @@
             "name": "优酷｜视频",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/spider.jar",
+            "jar": "./jar/spider.jar",
             "ext": "./js/优酷视频.js"
         },
         {
@@ -118,7 +118,7 @@
             "name": "芒果｜视频",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/spider.jar",
+            "jar": "./jar/spider.jar",
             "ext": "./js/芒果视频.js"
         },
         {
@@ -126,7 +126,7 @@
             "name": "爱奇艺｜视频",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/spider.jar",
+            "jar": "./jar/spider.jar",
             "ext": "./js/爱奇艺.js"
         },
         {
@@ -134,7 +134,7 @@
             "name": "哔哩｜短视频",
             "type": 3,
             "api": "csp_Bili",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/spider.jar",
+            "jar": "./jar/spider.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -182,7 +182,7 @@
             "name": "百度｜网盘",
             "type": 3,
             "api": "csp_PanBaidu",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/spider.jar",
+            "jar": "./jar/spider.jar",
             "searchable": 0,
             "filterable": 0,
             "changeable": 0,
@@ -632,7 +632,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/色花堂1.json",
+            "ext": "./XYQHike/色花堂1.json",
             "jar": "./jar/XBPQ.jar"
         },
         {
@@ -1361,7 +1361,7 @@
         {
             "name": "Gather.韩国女团",
             "type": 0,
-            "url": "https://gist.githubusercontent.com/yuanwangokk-1/a661dd0e88466aa22f2a7c1fb375635e/raw/8708d9947be1c64c52bb1610a30aaa1b595848c9/韩国女团直播.m3u",
+            "url": "./lib/韩国女团.txt",
             "ua": "okhttp/3.15",
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
