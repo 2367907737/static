@@ -8,7 +8,7 @@
             "name": "🏰 豆瓣┃首页",
             "type": 3,
             "api": "csp_Douban",
-            "jar": "./jar/spider.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/spider.jar",
             "searchable": 0,
             "changeable": 1,
             "indexs": 1,
@@ -19,7 +19,7 @@
             "name": "配置｜中心",
             "type": 3,
             "api": "csp_Config",
-            "jar": "./jar/spider.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/spider.jar",
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
@@ -33,7 +33,7 @@
             "name": "木偶｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
-            "jar": "./jar/spider.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -53,7 +53,7 @@
             "name": "二小｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
-            "jar": "./jar/spider.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -74,7 +74,7 @@
             "name": "哔哩｜视频",
             "type": 3,
             "api": "csp_BiliYS",
-            "jar": "./jar/spider.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/spider.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -92,7 +92,7 @@
             "name": "腾讯｜视频",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "jar": "./jar/spider.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/spider.jar",
             "ext": "./js/腾讯视频.js"
         },
         {
@@ -100,7 +100,7 @@
             "name": "优酷｜视频",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "jar": "./jar/spider.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/spider.jar",
             "ext": "./js/优酷视频.js"
         },
         {
@@ -108,7 +108,7 @@
             "name": "芒果｜视频",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "jar": "./jar/spider.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/spider.jar",
             "ext": "./js/芒果视频.js"
         },
         {
@@ -116,7 +116,7 @@
             "name": "爱奇艺｜视频",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "jar": "./jar/spider.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/spider.jar",
             "ext": "./js/爱奇艺.js"
         },
         {
@@ -124,7 +124,7 @@
             "name": "哔哩｜短视频",
             "type": 3,
             "api": "csp_Bili",
-            "jar": "./jar/spider.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/spider.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -172,7 +172,7 @@
             "name": "百度｜网盘",
             "type": 3,
             "api": "csp_PanBaidu",
-            "jar": "./jar/spider.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/spider.jar",
             "searchable": 0,
             "filterable": 0,
             "changeable": 0,
