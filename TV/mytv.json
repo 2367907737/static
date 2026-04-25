@@ -28,16 +28,6 @@
                 "ratio": 1.597
             }
         },
-		{
-			"key": "market",
-			"name": "🐬OK影视应用更新",
-			"type": 3,
-			"api": "csp_Market",
-			"searchable": 0,
-			"changeable": 0,
-			"ext": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/market.json",
-			"jar": "https://down.nigx.cn/raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/fm.jar"
-		},
         {
             "key": "木偶",
             "name": "木偶｜4K",
