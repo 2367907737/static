@@ -33,6 +33,7 @@
             "name": "代理｜设置",
             "type": 3,
             "api": "csp_Proxy",
+			"jar": "./jar/spider.jar",
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
