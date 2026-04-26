@@ -2,6 +2,7 @@
     "spider": "./jar/xyq.jar",
     "logo": "https://d.kstore.dev/download/11759/base.jpg?from=2956013662",
     "wallpaper": "https://picsum.photos/1080/",
+	"proxy": "socks5://123:123@43.100.108.223:3060/#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF08",
     "sites": [
         {
             "key": "豆瓣",
@@ -207,6 +208,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "./XYQHike/javday.json",
+			"proxy": 1,
             "style": {
                 "type": "rect",
                 "ratio": 1.6
