@@ -29,17 +29,6 @@
                 "ratio": 1.597
             }
         },
-		{
-            "key": "proxy_setting",
-            "name": "代理｜设置",
-            "type": 3,
-            "api": "csp_Config",
-			"jar": "./jar/spider.jar",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-			"ext": "proxy"
-        },
         {
             "key": "木偶",
             "name": "木偶｜4K",
