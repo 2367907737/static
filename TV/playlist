@@ -179,9 +179,9 @@ http://rihou.cc:555/tv/hktv/sstv8626tu&line=2
 https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/asdm3134/index.m3u8&line=1
 
 #EXTINF:-1 tvg-name="中字劇場1" tvg-logo="https://i.meee.com.tw/8AwiDll.png" group-title="其他",中字劇場1
-https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8jainsbq/index.m3u8
+https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/CC.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8jainsbq/index.m3u8
 #EXTINF:-1 tvg-name="中字劇場2" tvg-logo="https://i.meee.com.tw/8AwiDll.png" group-title="其他",中字劇場2
-https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/v19a2133/index.m3u8
+https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/XX.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/v19a2133/index.m3u8
 #EXTINF:-1 tvg-name="中字劇場3" tvg-logo="https://i.meee.com.tw/8AwiDll.png" group-title="其他",中字劇場3
 https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/56ffe9b8/index.m3u8
 #EXTINF:-1 tvg-name="中字劇場4" tvg-logo="https://i.meee.com.tw/8AwiDll.png" group-title="其他",中字劇場4
