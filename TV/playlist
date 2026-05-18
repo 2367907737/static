@@ -150,15 +150,15 @@ https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacali
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts&line=1
 https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c855d75/index.m3u8&line=2
 
-#EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://live.fanmingming.cn/tv/香蕉台.png" group-title="其他",香蕉台
-http://rihou.cc:555/tv/hktv/sstv8631ut&line=1
-
 #EXTINF:-1 tvg-name="松₁" tvg-logo="https://live.fanmingming.cn/tv/松₁.png" group-title="其他",松₁
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts&line=1
 https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c85giea/index.m3u8&line=2
 
 #EXTINF:-1 tvg-name="松₃" tvg-logo="https://live.fanmingming.cn/tv/松₃.png" group-title="其他",松₃
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts&line=1
+
+#EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://live.fanmingming.cn/tv/香蕉台.png" group-title="其他",香蕉台
+http://rihou.cc:555/tv/hktv/sstv8631ut&line=1
 
 #EXTINF:-1 tvg-name="彩虹" tvg-logo="https://live.fanmingming.cn/tv/彩虹.png" group-title="其他",彩虹
 http://rihou.cc:555/tv/hktv/sstv8626tu&line=1
