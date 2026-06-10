@@ -140,7 +140,6 @@ http://jason.25u.com:40222/udp/239.81.0.235:4056
 
 
 
-
 #EXTINF:-1 tvg-name="惊艳" tvg-logo="https://live.fanmingming.cn/tv/惊艳.png" group-title="其他",惊艳
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts&line=1
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts&line=2
@@ -156,12 +155,17 @@ https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacali
 
 #EXTINF:-1 tvg-name="松₃" tvg-logo="https://live.fanmingming.cn/tv/松₃.png" group-title="其他",松₃
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts&line=1
+http://125.227.210.55:1022/VideoInput/play.ts&line=2
 
 #EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://live.fanmingming.cn/tv/香蕉台.png" group-title="其他",香蕉台
-http://rihou.cc:555/tv/hktv/sstv8631ut&line=1
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts&line=1
+http://125.227.210.55:1009/VideoInput/play.ts&line=2
+http://atryffad.usa3.345123.xyz/jrw.php?id=Bananachannel&line=3
+https://stream1.freetv.fun/58de13dd44637831a30fd05decc775f0648b376c707586e3dcbe7da08a87ea53.ctv&line=4
+https://t.freetv.fun/live/xiang-jiao-2.ts&line=5
 
 #EXTINF:-1 tvg-name="彩虹" tvg-logo="https://live.fanmingming.cn/tv/彩虹.png" group-title="其他",彩虹
-http://rihou.cc:555/tv/hktv/sstv8626tu&line=1
+http://atryffad.usa3.345123.xyz/jrw.php?id=Rainbowmovie&line=1
 https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c855daa/index.m3u8&line=2
 
 #EXTINF:-1 tvg-name="JStar" tvg-logo="https://live.fanmingming.cn/tv/JStar.png" group-title="其他",JStar(极限)
@@ -169,7 +173,10 @@ http://rihou.cc:555/tv/hktv/sstv8633tgf&line=1
 https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c855fdf/index.m3u8&line=2
 
 #EXTINF:-1 tvg-name="澳视" tvg-logo="https://live.fanmingming.cn/tv/澳视.png" group-title="其他",澳视
-http://rihou.cc:555/tv/hktv/sstv2356jf&line=1
+http://125.227.210.55:3031/VideoInput/play.ts&line=1
+
+#EXTINF:-1 tvg-name="Happy" tvg-logo="https://live.fanmingming.cn/tv/Happy.png" group-title="其他",Happy
+http://atryffad.usa3.345123.xyz/jrw.php?id=HappyHD
 
 #EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://live.fanmingming.cn/tv/香蕉台.png" group-title="其他",香蕉台(外)
 https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/mdfdc123/index.m3u8&line=1
