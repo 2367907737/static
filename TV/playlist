@@ -179,34 +179,5 @@ http://125.227.210.55:3031/VideoInput/play.ts&line=1
 #EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://live.fanmingming.cn/tv/香蕉台.png" group-title="其他",香蕉台(外)
 https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/mdfdc123/index.m3u8&line=1
 https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/JB.php?url=http://125.227.210.55:1009/VideoInput/play.ts&line=2
-
-#EXTINF:-1 tvg-name="麻豆" tvg-logo="https://live.fanmingming.cn/tv/麻豆.png" group-title="其他",麻豆
-https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/asdm3134/index.m3u8&line=1
-
-#EXTINF:-1 tvg-name="中字劇場1" tvg-logo="https://i.meee.com.tw/8AwiDll.png" group-title="其他",中字劇場1
-https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/CC.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8jainsbq/index.m3u8
-#EXTINF:-1 tvg-name="中字劇場2" tvg-logo="https://i.meee.com.tw/8AwiDll.png" group-title="其他",中字劇場2
-https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/XX.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/v19a2133/index.m3u8
-#EXTINF:-1 tvg-name="中字劇場3" tvg-logo="https://i.meee.com.tw/8AwiDll.png" group-title="其他",中字劇場3
-https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/56ffe9b8/index.m3u8
-#EXTINF:-1 tvg-name="中字劇場4" tvg-logo="https://i.meee.com.tw/8AwiDll.png" group-title="其他",中字劇場4
-https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/2a8cba45/index.m3u8
-#EXTINF:-1 tvg-name="中字劇場5" tvg-logo="https://i.meee.com.tw/8AwiDll.png" group-title="其他",中字劇場5
-https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/48a8dcb9/index.m3u8
-#EXTINF:-1 tvg-name="中字劇場6" tvg-logo="https://i.meee.com.tw/8AwiDll.png" group-title="其他",中字劇場6
-https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/e8f7e463/index.m3u8
-
-#EXTINF:-1 tvg-name="高清无码1" tvg-logo="https://i.meee.com.tw/phIWwOM.png" group-title="其他",高清无码1
-https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/846a1ghm/index.m3u8
-#EXTINF:-1 tvg-name="高清无码2" tvg-logo="https://i.meee.com.tw/phIWwOM.png" group-title="其他",高清无码2
-https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/1bf4a301/index.m3u8
-#EXTINF:-1 tvg-name="高清无码3" tvg-logo="https://i.meee.com.tw/phIWwOM.png" group-title="其他",高清无码3
-https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/ahun18hg/index.m3u8
-#EXTINF:-1 tvg-name="高清无码4" tvg-logo="https://i.meee.com.tw/phIWwOM.png" group-title="其他",高清无码4
-https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/84a15gbc/index.m3u8
-#EXTINF:-1 tvg-name="高清无码5" tvg-logo="https://i.meee.com.tw/phIWwOM.png" group-title="其他",高清无码5
-https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/952a3vvv/index.m3u8
-#EXTINF:-1 tvg-name="高清无码6" tvg-logo="https://i.meee.com.tw/phIWwOM.png" group-title="其他",高清无码6
-https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/984fa1vb/index.m3u8
 #EXTINF:-1 tvg-name="高清无码7" tvg-logo="https://i.meee.com.tw/phIWwOM.png" group-title="其他",高清无码7
 https://yglcklmwryon.ap-northeast-1.clawcloudrun.com/BB.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/456oinav/index.m3u8
