@@ -1367,6 +1367,10 @@
         }
     ],
     "doh": [
+		{
+            "name": "自用",
+            "url": "https://doh.solidbacking.de5.net/solidbacking"
+        },
         {
             "name": "DNSPod",
             "url": "https://doh.pub/dns-query",
