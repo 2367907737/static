@@ -8,7 +8,7 @@
             "name": "🏰 豆瓣┃首页",
             "type": 3,
             "api": "csp_Douban",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar",
+            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar",
             "searchable": 0,
             "changeable": 1,
             "indexs": 1,
@@ -19,7 +19,7 @@
             "name": "配置｜中心",
             "type": 3,
             "api": "csp_Config",
-			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar",
+			"jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar",
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
@@ -33,7 +33,7 @@
             "name": "木偶｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar",
+            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -53,7 +53,7 @@
             "name": "二小｜4K",
             "type": 3,
             "api": "csp_PanWebShare",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar",
+            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -74,7 +74,7 @@
             "name": "哔哩｜视频",
             "type": 3,
             "api": "csp_BiliYS",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar",
+            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -92,7 +92,7 @@
             "name": "腾讯｜视频",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar",
+            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar",
             "ext": "./js/腾讯视频.js"
         },
         {
@@ -100,7 +100,7 @@
             "name": "优酷｜视频",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar",
+            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar",
             "ext": "./js/优酷视频.js"
         },
         {
@@ -108,7 +108,7 @@
             "name": "芒果｜视频",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar",
+            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar",
             "ext": "./js/芒果视频.js"
         },
         {
@@ -116,7 +116,7 @@
             "name": "爱奇艺｜视频",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar",
+            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar",
             "ext": "./js/爱奇艺.js"
         },
         {
@@ -124,7 +124,7 @@
             "name": "哔哩｜短视频",
             "type": 3,
             "api": "csp_Bili",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar",
+            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -172,7 +172,7 @@
             "name": "百度｜网盘",
             "type": 3,
             "api": "csp_PanBaidu",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar",
+            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar",
             "searchable": 0,
             "filterable": 0,
             "changeable": 0,
@@ -1334,17 +1334,17 @@
         {
             "name": "国内",
             "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/黄色仓库_国产系列.m3u"
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/黄色仓库_国产系列.m3u"
         },
         {
             "name": "国外",
             "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/黄色仓库_日韩系列.m3u"
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/黄色仓库_日韩系列.m3u"
         },
 		{
             "name": "剧场",
             "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/午夜剧场.txt"
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/午夜剧场.txt"
         },
         {
             "name": "Gather.韩国女团",
