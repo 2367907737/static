@@ -139,8 +139,7 @@ http://jason.25u.com:40222/udp/239.81.0.61:4056
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/新动漫.png" group-title="卫视",新动漫
 http://jason.25u.com:40222/udp/239.81.0.235:4056
 #EXTINF:-1 tvg-name="JStar" tvg-logo="https://live.fanmingming.cn/tv/JStar.png" group-title="卫视",极限电影台
-http://srteamhls.gotvsports.com:41111/s0doso0ydxe3yk2s/index.m3u8&line=1
-http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c855fdf/index.m3u8&line=2
+http://x315601.serv00.net/cr.php?url=http://lc.aacalive.com:26789/i/ghjnvq5o/8c855fdf/index.m3u8&line=1
 
 
 #EXTINF:-1 tvg-name="惊艳" tvg-logo="https://live.fanmingming.cn/tv/惊艳.png" group-title="其他",惊艳
